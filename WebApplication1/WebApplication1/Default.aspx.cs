@@ -17,7 +17,13 @@ namespace WebApplication1
             {
                 else (dynamic)
             }
+            if (DataBind)
+            {
+                else (dynamic)
 
         }
+
     }
+
+
 }
