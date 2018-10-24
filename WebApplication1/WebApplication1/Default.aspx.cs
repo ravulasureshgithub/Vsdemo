@@ -13,6 +13,11 @@ namespace WebApplication1
         {
             GetDataItem (default)
 
+                if (DataBind)
+            {
+                else (dynamic)
+            }
+
         }
     }
 }
